@@ -1,0 +1,10 @@
+/*
+Theme Name: MyWordPressTheme
+Author: Inedo LLC
+Author URI: https://github.com/Inedo/inedo-wordpresscicd
+Version: 0.0
+ */
+ 
+ body{
+	background-color: lightgrey;
+ }
